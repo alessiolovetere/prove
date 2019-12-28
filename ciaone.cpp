@@ -2,7 +2,7 @@
 
 int main()
 {
-	std::cout<<ciao, una modifica<<endl;
+	std::cout<<"Ciaooone!!"<<endl;
 	return 0;
 }
 
